@@ -1,3 +1,5 @@
+CAUTION: while this does build, do not expect cuda8 support to work in terra yet
+
 # terra-build-cuda8-luajit2.1.0b2
 terra-build-cuda8-luajit2.1.0b2
 
